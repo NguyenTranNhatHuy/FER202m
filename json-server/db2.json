@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "id": 2,
+      "name": "Company Two",
+      "category": "Retail"
+    },
+    {
+      "id": 3,
+      "name": "Company Three",
+      "category": "Auto"
+    },
+    {
+      "id": 4,
+      "name": "Company Four",
+      "category": "Retail"
+    },
+    {
+      "id": 5,
+      "name": "Company Five",
+      "category": "Technology"
+    },
+    {
+      "id": 6,
+      "name": "Company Six",
+      "category": "Finance"
+    },
+    {
+      "id": 7,
+      "name": "Company Seven",
+      "category": "Auto"
+    },
+    {
+      "id": 9,
+      "name": "Company Nine",
+      "category": "Retail"
+    }
+  ]
+}
